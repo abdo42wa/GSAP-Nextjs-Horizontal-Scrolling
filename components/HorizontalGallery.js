@@ -91,6 +91,30 @@ function App() {
               className="max-w-[70vw] max-h-[60vh] m-auto"
             />
           </section>
+          <section
+            ref={skills}
+            className="skill-set px-12 w-screen h-full bg-transparent ns-horizontal-section__item flex items-center z-50"
+          >
+            <Image
+              src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?w=2000"
+              alt="2ndimage"
+              layout="fill"
+              objectFit="contain"
+              className="max-w-[70vw] max-h-[60vh] m-auto"
+            />
+          </section>
+          <section
+            ref={skills}
+            className="skill-set px-12 w-screen h-full bg-transparent ns-horizontal-section__item flex items-center z-50"
+          >
+            <Image
+              src="https://img.freepik.com/free-photo/vestrahorn-mountains-stokksnes-iceland_335224-667.jpg?size=626&ext=jpg&ga=GA1.2.851986977.1673206795&semt=ais"
+              alt="2ndimage"
+              layout="fill"
+              objectFit="contain"
+              className="max-w-[70vw] max-h-[60vh] m-auto"
+            />
+          </section>
         </div>
       </div>
     </div>
