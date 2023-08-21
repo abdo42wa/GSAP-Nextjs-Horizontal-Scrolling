@@ -109,7 +109,7 @@ function App() {
           >
             <Image
               src="https://img.freepik.com/free-photo/vestrahorn-mountains-stokksnes-iceland_335224-667.jpg?size=626&ext=jpg&ga=GA1.2.851986977.1673206795&semt=ais"
-              alt="2ndimage"
+              alt="image 2"
               layout="fill"
               objectFit="contain"
               className="max-w-[70vw] max-h-[60vh] m-auto"
